@@ -1,0 +1,21 @@
+{
+  "name": "DashboardHomework",
+  "version": "0.0.1",
+  "description": "A goat-centric social experience.",
+  "main": "app/app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "my project"
+  ],
+  "author": "Andy Jepkes <andrewje@unity3d.com>",
+  "license": "MIT"
+}
